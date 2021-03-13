@@ -1,3 +1,3 @@
-Git is a version control System!
-And it is a way of useful!:wq
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 
